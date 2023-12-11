@@ -104,6 +104,7 @@ h6,
 .item .item-wrap img {
   transition: 0.3s transform ease;
   transform: scale(1);
+  padding: 3rem 0;
 }
 
 .item .item-wrap>.work-info {
@@ -336,7 +337,7 @@ h6,
 --------------------------------------------------------------*/
 /* Custom Navmenu */
 .custom-navmenu {
-  background: #0d1e2d;
+  background: #e2e2e2;
 }
 
 .custom-navmenu .custom-menu,
@@ -348,16 +349,17 @@ h6,
 
 .custom-navmenu .custom-menu li {
   margin-bottom: 0;
-  font-size: 20px;
+  font-size: 17px;
 }
 
 .custom-navmenu .custom-menu li a {
-  color: #fff;
+  color: #686868;
   padding: 10px 0 !important;
 }
 
 .custom-navmenu .custom-menu li a:hover {
   text-decoration: none;
+  color:  #6e153a;
 }
 
 .custom-navmenu .custom-menu li.active a {
@@ -500,4 +502,16 @@ h6,
 
 .social a:hover {
   color: #000;
+}
+
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  padding: 3em;
+}
+
+.titulo-tema {
+  font-weight: bold;
+
 }
