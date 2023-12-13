@@ -410,3 +410,8 @@ h6,
   box-shadow: 0 0 11px rgba(5, 5, 5, 0.2); 
 
 }
+
+.date-published {
+  font-size: 80%;
+  color: rgb(156, 155, 155)
+}
