@@ -416,3 +416,7 @@ h6,
   font-size: 80%;
   color: rgb(156, 155, 155)
 }
+
+.iframe-container {
+            text-align: left;  /* Align iframe to the left */
+        }
